@@ -24,7 +24,7 @@ setuptools.setup(
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-    ]
+    ],
     project_urls={
         "bug tracker": "https://github.com/VShreya/Text-summarizer/issues"
     }
